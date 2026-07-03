@@ -5,11 +5,16 @@
 **O marketplace de Beyblade do Brasil — colecionar e negociar com segurança.**
 **The Beyblade marketplace of Brazil — collect and trade safely.**
 
-[![Site no ar](https://img.shields.io/badge/site-no%20ar-00A6D6?style=for-the-badge)](https://baybladebrust-61393.web.app)
+[![Status](https://img.shields.io/badge/status-EM%20DESENVOLVIMENTO-FFB703?style=for-the-badge)](https://baybladebrust-61393.web.app)
+&nbsp;
+[![Preview no ar](https://img.shields.io/badge/preview-no%20ar-00A6D6?style=for-the-badge)](https://baybladebrust-61393.web.app)
 &nbsp;
 ![Stack](https://img.shields.io/badge/Vite%20·%20React%20·%20TypeScript%20·%20Tailwind%20·%20Firebase-06131A?style=for-the-badge)
 
 ![BladeBrust](./screenshots/01-hero.png)
+
+> 🚧 **Projeto em desenvolvimento — ainda não finalizado.** Funcionalidades sendo construídas, testadas e ajustadas com o feedback dos sócios. O que aparece aqui é um **preview** do progresso.
+> 🚧 **Work in progress — not finished yet.** Features are being built, tested and refined. What you see here is a **preview** of the progress.
 
 </div>
 
