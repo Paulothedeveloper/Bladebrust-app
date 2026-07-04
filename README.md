@@ -1,27 +1,41 @@
-# BladeBrust — Marketplace + comunidade de piões
+<div align="center">
 
-![status](https://img.shields.io/badge/status-NO_AR-blue) &nbsp; por **Paulo Adriel** · [Paulocodex](https://paulocodex.com)
+# BladeBrust
 
-BladeBrust é a plataforma dos colecionadores de piões de batalha do Brasil: comunidade, vitrines de vendedores e marketplace num lugar só. Identidade própria 'Live Arena'. Compra, vende, troca e conversa com quem é do hobby.
+**Marketplace + comunidade de piões de batalha do Brasil. Identidade 'Live Arena'.**
 
-## O que faz
+![status](https://img.shields.io/badge/status-NO%20AR-00A6D6?style=for-the-badge) &nbsp; ![](https://img.shields.io/badge/-Web-1f1f1f?style=for-the-badge)
+
+[![Ver a plataforma](https://img.shields.io/badge/Ver%20a%20plataforma-abrir-00A6D6?style=for-the-badge)](https://baybladebrust-61393.web.app)
+
+</div>
+
+
+---
+
+
+## ✨ O que faz
 
 - Marketplace de piões e peças
 - Vitrines de vendedores
 - Comunidade e trocas
-- Identidade 'Live Arena'
 - Tiers de vendedor com comissão reduzida
 
-## Status
-
-**No ar** — em produção, evoluindo.
-
-## Saiba mais
+## 🔗 Saiba mais
 
 - **Página do projeto:** https://paulocodex.com/p/bladebrust
-- **Acessar / comprar:** https://baybladebrust-61393.web.app
+- **Ver a plataforma:** https://baybladebrust-61393.web.app
+- **Site:** https://baybladebrust-61393.web.app
+
+## 👤 Sobre o dev
+
+**Paulo Adriel** — produtor de vídeo e desenvolvedor indie brasileiro. Construo o produto **e** a apresentação dele: código + identidade, motion e material de lançamento, do zero ao ar em 30 dias. Estúdio [Paulocodex](https://paulocodex.com).
 
 ---
-_Este repositório é apenas a **apresentação pública** do projeto. O código-fonte é fechado e não é distribuído aqui._
+<div align="center">
 
-Contato: paulobatista19988@proton.me
+📧 [paulobatista19988@proton.me](mailto:paulobatista19988@proton.me) &nbsp;·&nbsp; 🌐 [paulocodex.com](https://paulocodex.com) &nbsp;·&nbsp; 🐙 [github.com/Paulothedeveloper](https://github.com/Paulothedeveloper)
+
+_Repositório de **apresentação pública** — o código-fonte é fechado. Nada de dado ou segredo aqui._
+
+</div>
