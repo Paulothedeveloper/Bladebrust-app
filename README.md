@@ -6,7 +6,7 @@
 
 **O marketplace de Beyblade do Brasil — colecione, compre e venda com segurança, inteira ou por peça.**
 
-[![Status](https://img.shields.io/badge/status-NO%20AR-00A6D6?style=for-the-badge)](https://baybladebrust-61393.web.app)
+[![Status](https://img.shields.io/badge/status-NO%20AR-00a6d6?style=for-the-badge)](https://baybladebrust-61393.web.app)
 [![Plataforma](https://img.shields.io/badge/plataforma-Web-00A6D6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://baybladebrust-61393.web.app)
 [![Pagamento](https://img.shields.io/badge/pagamento-PIX%20%2B%20Cart%C3%A3o-00A6D6?style=for-the-badge)](https://baybladebrust-61393.web.app/seguranca)
 
