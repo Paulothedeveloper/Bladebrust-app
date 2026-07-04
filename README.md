@@ -81,16 +81,18 @@ Criar conta é **grátis** e leva menos de um minuto. Comece a colecionar e nego
 
 ## 👤 Sobre o desenvolvedor
 
-**Paulo** é produtor de vídeo e desenvolvedor indie brasileiro. O BladeBrust nasceu de uma dor real da comunidade de piões no Brasil — comprar e vender sempre foi no boca a boca, sem garantia nenhuma. A ideia foi simples: dar à galera um lugar sério, bonito e **seguro** para colecionar e negociar. Desenvolvido de forma aberta, ouvindo quem coleciona.
+<img src="https://paulocodex.com/products/paulo.jpg" alt="Paulo Adriel" width="130" align="left" style="margin-right:18px;border-radius:12px" />
 
-## 📜 Nota de marca
+**Paulo Adriel** é produtor de vídeo e desenvolvedor indie brasileiro. Construo o produto **e** a apresentação dele — código + identidade visual, motion e material de lançamento — do zero ao ar em 30 dias. Trabalho de forma aberta e escuto quem usa. Estúdio [**Paulocodex**](https://paulocodex.com).
 
-**BladeBrust** é uma marca independente. *"Beyblade"* e *"Burst"* são marcas registradas da **Takara Tomy / Hasbro** — o nome do projeto é **BladeBrust** justamente para não se confundir com elas; o termo "Beyblade" aparece aqui apenas de forma descritiva/referencial (SEO), nunca como marca própria. Piões e ilustrações da identidade são **genéricos e IP-safe**.
+<br clear="left" />
 
 ---
 
 <div align="center">
 
-📧 [paulobatista19988@proton.me](mailto:paulobatista19988@proton.me) · 🌐 **[baybladebrust-61393.web.app](https://baybladebrust-61393.web.app)** · 🐙 [github.com/Paulothedeveloper](https://github.com/Paulothedeveloper)
+📧 [paulobatista19988@proton.me](mailto:paulobatista19988@proton.me) &nbsp;·&nbsp; 🌐 [paulocodex.com](https://paulocodex.com) &nbsp;·&nbsp; 📸 [Instagram](https://instagram.com/paulo.videodev) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/paulo-adriel/) &nbsp;·&nbsp; 🐙 [github.com/Paulothedeveloper](https://github.com/Paulothedeveloper)
+
+_Repositório de **apresentação pública** — o código-fonte é fechado. Nada de dado ou segredo aqui._
 
 </div>
