@@ -79,6 +79,14 @@ Criar conta é **grátis** e leva menos de um minuto. Comece a colecionar e nego
 
 ➡️ **[baybladebrust-61393.web.app](https://baybladebrust-61393.web.app)**
 
+## 🥷 Mascote
+
+<img src="https://paulocodex.com/brand/ninjas/bladebrust.png" alt="Bladebrust — ninja" width="200" align="right" />
+
+Todo projeto do estúdio tem o **ninja Codex** na cor da sua identidade — o mesmo mascote da casa, recolorido pro tema do **Bladebrust**.
+
+<br clear="right" />
+
 ## 👤 Sobre o desenvolvedor
 
 <img src="https://paulocodex.com/products/paulo.jpg" alt="Paulo Adriel" width="130" align="left" style="margin-right:18px;border-radius:12px" />
