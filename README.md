@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="BladeBrust" width="880" />
+<img src="assets/banner.png" alt="BeyBox" width="880" />
 
-# BladeBrust
+# BeyBox
 
 **O marketplace de Beyblade do Brasil — colecione, compre e venda com segurança, inteira ou por peça.**
 
@@ -16,15 +16,15 @@
 
 ---
 
-Onde blader compra e vende **sem tomar calote**. O BladeBrust junta num só lugar o que a comunidade sempre fez espalhado em grupos e mensagens privadas — só que com **pagamento protegido**, catálogo organizado por geração e reputação de verdade.
+Onde você compra e vende com segurança, peça por peça. O BeyBox junta num só lugar o que a comunidade sempre fez espalhado em grupos e mensagens privadas — só que com **pagamento protegido**, catálogo organizado por geração e reputação de verdade.
 
 Peça inteira ou solta. Vendedor verificado. O dinheiro só cai na mão de quem vendeu **depois** que você confirma que recebeu.
 
-## ✨ Por que BladeBrust
+## ✨ Por que BeyBox
 
 - **Compre com o dinheiro protegido (escrow).** O pagamento fica retido e só é liberado ao vendedor quando você confirma o recebimento. Deu ruim? Abre disputa e o valor volta.
 - **Venda para quem realmente coleciona.** Anuncie sua peça — inteira ou por parte — e alcance um público que sabe o que está comprando.
-- **Negocie inteira ou por peça.** Blade, ratchet, bit, lançador, arena — o catálogo é canônico e organizado por geração (X Series, Burst, Metal, Plástico/Original).
+- **Negocie inteira ou por peça.** Blade, ratchet, bit, lançador, arena — o catálogo é canônico e organizado por geração (Beyblade X, Beyblade Burst, Beyblade Metal Fight, Beyblade Bakuten Shoot).
 - **Vendedor verificado + reputação real.** Selo de verificação e avaliações pós-compra que constroem confiança de verdade, não estrelinha de enfeite.
 - **Vitrines e loja própria.** Vendedores Pro ganham storefront próprio para montar sua vitrine dentro da plataforma.
 - **Comunidade viva.** Trocas, dúvidas e novidades entre quem coleciona — tire dúvida sobre uma peça direto no anúncio, antes de fechar.
